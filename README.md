@@ -1,6 +1,6 @@
 ~~~
 Note that as of 2022-08-08 it  appears that public organizations 
-cannot display an organizatino README.md on the home page.
+cannot display an organizations README.md on the home page.
 
 This is a placeholder till then.  Obviously, if it starts working 
 this comment should be deleted :)
